@@ -1,5 +1,5 @@
 {
   "db": {
-    "postgis": "postgres://postgres:postgres@localhost:5432/wq"
+    "postgis": "postgres://postgres:1234@localhost:5432/postgis_24_sample"
   }
 }
